@@ -71,6 +71,14 @@
     text-align: center;
     font-size: 1em;
   }
-  .popup.hide {
-    display: none;
+  
+
+  body{ background-image: url("jerry\ y\ tom.jpg");
+
+    background-size: cover;
+
+background-repeat: no-repeat;
+    width: 80%;
+
+    height: 90%;
   }
